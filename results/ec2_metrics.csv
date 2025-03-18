@@ -1,4 +1,4 @@
-timestamp,cpu_percent_mean,memory_percent_mean,memory_used_mean,gpu_utilization_mean,gpu_memory_used_mean,gpu_memory_free_mean,gpu_memory_total_mean
+timestamp,cpu_percent_mean,memory_percent_mean,memory_used_mean,gpu_utilization_mean,gpu_memory_used_mean,gpu_memory_free_mean,gpu_memory_total_mean 
 2025-03-18 14:34:09,0.0,33.9,4.230251312255859,0.0,6229.3125,16344.8125,23034.0
 2025-03-18 14:34:14,23.375489539753644,36.10980250833619,4.529794008942436,42.11308265565027,6707.80786282987,15866.317117207034,23034.0
 2025-03-18 14:34:19,24.579182921553784,36.28388767644895,4.555858125658401,48.17216797029326,6754.289599873121,15819.835394984564,23034.0

@@ -5,6 +5,6 @@ Training Loss: 0.6949
 Metrics:
 - Train Runtime: 301.985 seconds
 - Training Samples/Second: 15.895
-- Training Steps/Second: 1.987
+- Training Steps/Second: 1.987 
 - Total FLOPS: 4.56e+15
 - Final Train Loss: 0.6949
