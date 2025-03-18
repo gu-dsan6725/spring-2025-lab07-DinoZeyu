@@ -1,0 +1,19 @@
+Below are some text from bank customers. Classify the request into correct category.
+
+### Customer Query:
+I see a charge on my credit card statement but I paid on time, why?
+
+### Classification Category:
+card_payment_not_recognisedBelow are some text from bank customers. Classify the request into correct category.
+
+### Customer Query:
+Do you have a branch in Timbuktu?
+
+### Classification Category:
+atm_supportBelow are some text from bank customers. Classify the request into correct category.
+
+### Customer Query:
+I lost my card and my replacement card has not arrived.
+
+### Classification Category:
+card_arrival
